@@ -1,0 +1,13 @@
+{
+    "name": "a_stok_parser",
+    "description": "Some utilities for stock analysis",
+    "autoload": {
+        "psr-0": {
+            "": [
+                "library/"
+            ]
+        }
+    },
+    "require": {
+    }
+}
